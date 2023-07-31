@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Cari Username User</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Following</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="moonicon">moon</string>
+    <string name="sunicon">sun</string>
+    <string name="theme_setting">Theme Settings</string>
+    <string name="favoriteduser">Favorited User</string>
+    <string name="favorite_button">FabButton</string>
+    <string-array name="tab_title">
+        <item>@string/followers</item>
+        <item>@string/followings</item>
+    </string-array>
+</resources>
